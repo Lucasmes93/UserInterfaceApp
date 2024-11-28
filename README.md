@@ -1,4 +1,4 @@
-User Interface App
+User Interface App by Lucas - Grégoire - Iles
 Une application Android simple pour démontrer les concepts suivants :
 
 Navigation Drawer : Menu latéral pour naviguer entre différentes activités.
