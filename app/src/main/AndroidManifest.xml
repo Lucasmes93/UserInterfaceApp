@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UserInterfaceApp">
 
+        <activity android:name=".SecretActivity" />
         <activity android:name=".SecondActivity" />
         <activity android:name=".MainActivity"
             android:exported="true">

@@ -17,7 +17,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sous-titre"
+        android:text="Navigation Drawer"
         android:textSize="14sp"
         android:textColor="@android:color/white" />
 </LinearLayout>
